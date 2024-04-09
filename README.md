@@ -8,3 +8,6 @@ HTML, CSS, React
 
 ![image](https://github.com/Jashandeep123/Controlled_Components_React/assets/102272261/acfc7f5d-30a6-42c0-ab21-bc4d54e74f7a)
 
+![Screenshot 2024-04-07 222819](https://github.com/Jashandeep123/Controlled_Components_React/assets/102272261/e8698a46-3383-4f1d-9c43-a48a59c74147)
+
+
